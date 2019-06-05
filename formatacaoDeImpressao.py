@@ -40,8 +40,6 @@ print('String aqui:> {p} < e também: > {p} <'.format(p = 'alguma coisa'))
 
 print('\nbatatatatatata->{a}, batatatatatta->{b}, batatatattata->{c} \n'.format(a = 1, b='dois', c=12.05))
 
-
-
 # Exercicios:
 #1. Dada as variáveis: 
 # planeta = "Terra"
